@@ -1,6 +1,6 @@
 .body {
     background: black;
-    margin: 150px;
+    margin: 50px;
 
 }
 
@@ -8,7 +8,9 @@
     width: 450px;
     height: 620px;
     background: white;
+    margin: 50px auto;
 }
+
 
 .post-header {
     padding: 14px;
